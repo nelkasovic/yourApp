@@ -1,1 +1,3 @@
-# yourApp
+# Welcome to yourApp
+
+Lorem ipsum...
